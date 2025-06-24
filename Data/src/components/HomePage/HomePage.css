@@ -1,0 +1,7 @@
+@media (max-width : 700px){
+    body{
+        max-height: 650px;
+        max-width: 600px;
+        overflow: hidden;
+    }
+}
